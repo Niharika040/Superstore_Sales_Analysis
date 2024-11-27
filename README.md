@@ -7,10 +7,16 @@ This project is an **exploratory and descriptive analysis** of the **Superstore 
 **Dataset Information**
  - Source: Kaggle Superstore Dataset
  - Columns:
+   
        -Order Information: Row ID, Order ID, Order Date, Ship Date
+   
        -Customer Details: Customer ID, Customer Name, Segment
+   
        -Geography: Country, City, State, Postal Code, Region
+   
         -Product Details: Product ID, Category, Sub-Category, Product Name
+   
        -Sales Metrics: Sales, Quantity, Discount, Profit
+   
        -Operational Metrics: Ship Mode
 
