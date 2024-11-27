@@ -52,6 +52,6 @@ Before performing any analysis, the dataset needs to be cleaned and formatted pr
 
 
 
-## Step 2: Exploratory Data Analysis (EDA)
+### 2: Exploratory Data Analysis (EDA)
 
 
