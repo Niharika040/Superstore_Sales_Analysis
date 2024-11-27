@@ -32,14 +32,11 @@ The dataset contain following key attributes:
 
 ## Project Goals
 
-The project aims to uncover key business insights through descriptive and exploratory data analysis, leveraging advanced Excel tools and visualizations. Some of the goals include identifying sales trends, profit distribution, customer segmentation, and understanding operational efficiency.
+The project aims to uncover key business insights through descriptive and exploratory data analysis, leveraging advanced Excel tools and visualizations. Some of the goals include identifying sales trends, profit distribution, customer segmentation, and understanding operational efficiency. By visualizing these insights, this project supports strategic decision-making, optimizes business processes, and helps in identifying opportunities for growth and improvement in sales performance.
 
 For a more detailed analysis, explore the visualizations and insights in the repository.
 
----
-
-## Dataset Source
-
-- **Kaggle**: The dataset is sourced from Kaggle’s public Superstore dataset. [Link to Kaggle Dataset](https://www.kaggle.com/datasets).
+The raw data used in this analysis was sourced from Kaggle’s Superstore Sales Dataset. You can download the dataset using the link below:
+[(link: Kaggle Dataset](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting/code)
 
 
