@@ -54,9 +54,8 @@ Before performing any analysis, the dataset needs to be cleaned and formatted pr
 
 ### 2: Exploratory Data Analysis (EDA)
 
-   **1. Descriptive Analysis**
-   
-   **1.1 Sales and Profit Analysis by Subcategory**
+   **Descriptive Analysis**
+   -**Sales and Profit Analysis by Subcategory**
 
    
    - **Profit Margin Analysis by Subcategory**
