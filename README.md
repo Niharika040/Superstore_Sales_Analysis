@@ -63,30 +63,12 @@ Sales and profit analysis by subcategory provides a clear understanding of how e
 
 - **Chairs** emerges as the top revenue generator, contributing **$328,449.10** in sales, while **Copiers** stands out as the most profitable subcategory, with **$55,617.82** in profit.
 
-- Some subcategories, such as **Supplies** (**$46,673.54** in sales, **-$1,189.10** in profit) and **Tables** (**$206,965.53** in sales, **-$17,725.48** in profit), show negative profits, highlighting underperformance and areas for potential reassessment.
+- Some subcategories, such as **Supplies**  and **Tables**, show negative profits, highlighting underperformance and areas for potential reassessment.
 
-- Despite these losses, the overall profit across all subcategories remains strong at **$286,397.02**, driven by high-performing categories like **Binders** (**$203,412.73** in sales, **$30,221.76** in profit), **Phones** (**$330,007.05** in sales, **$44,515.73** in profit), and **Storage** (**$223,843.61** in sales, **$21,278.83** in profit), which significantly contribute to both sales and profit.
+- Despite these losses, the overall profit across all subcategories remains strong at **$286,397.02**, driven by high-performing categories like **Binders**, **$30,221.76**, **Phones**, **$44,515.73**, and **Storage**, which significantly contribute to both sales and profit.
 
-- Additionally, subcategories like **Art** (**$27,118.79** in sales, **$6,527.79** in profit) and **Envelopes** (**$16,476.40** in sales, **$6,964.18** in profit), although generating lower sales, maintain strong profit margins, suggesting they are niche but high-margin items.
-
----
-
-This analysis provides valuable insights into which product subcategories are driving overall business performance and which areas require further attention and strategic improvement.
-
-### Recommendations
-
-To optimize business performance and profitability, it is recommended to focus on high-performing subcategories such as **Chairs**, **Phones**, and **Copiers** by prioritizing their marketing and inventory management. These subcategories are contributing significantly to overall sales and profits, and increasing their visibility can drive further revenue growth.
-
-For underperforming subcategories like **Supplies** and **Tables**, a thorough evaluation of pricing strategies, promotions, or potential product replacements is necessary. Addressing these areas can help mitigate losses and improve profitability.
-
-Additionally, products with high profit margins but lower sales, such as **Art** and **Envelopes**, should be promoted more strategically to capitalize on their profitability. By increasing their sales volume, the business can further enhance its overall profit margins.
-
-Cross-selling opportunities for products with high sales but lower margins, like **Phones** and **Binders**, could further improve profit. This approach can help increase the profitability of existing products while enhancing the customer experience.
-
-Finally, diversifying product offerings in successful categories such as **Chairs** and **Storage** would also be beneficial. Expanding these high-performing categories can help the business capture more market share and create new revenue streams.
-
-Implementing these strategies will help increase profitability, streamline inventory management, and ensure long-term growth.
-
+- Additionally, subcategories like **Art** and **Envelopes**, although generating lower sales, maintain strong profit margins, suggesting they are niche but high-margin items.
+  
 
 
 
