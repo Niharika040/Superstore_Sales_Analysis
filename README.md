@@ -45,7 +45,13 @@ The raw data used in this analysis was sourced from Kaggle’s Superstore Sales 
 Before performing any analysis, the dataset needs to be cleaned and formatted properly. The steps involved include:
 - No missing and duplicated values were found.
 - Formatting date columns to ensure proper time series analysis.
-- Creating new columns [ higlighted by Green color] such as calculating the "Delivery Time" from Order Date to Ship Date, profit margin etc.  
+- Creating new columns [ higlighted by Green color] such as calculating the "Delivery Time" from Order Date to Ship Date, profit margin etc.
 
+  ### Cleaned Dataset
+  -**File Name**:-[Cleaned dataset]
+
+
+
+## Step 2: Exploratory Data Analysis (EDA)
 
 
