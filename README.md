@@ -37,6 +37,6 @@ The project aims to uncover key business insights through descriptive and explor
 For a more detailed analysis, explore the visualizations and insights in the repository.
 
 The raw data used in this analysis was sourced from Kaggle’s Superstore Sales Dataset. You can download the dataset using the link below:
-[(link: Kaggle Dataset](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting/code)
+[link: Kaggle Dataset](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting/code)
 
 
