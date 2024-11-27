@@ -39,4 +39,13 @@ For a more detailed analysis, explore the visualizations and insights in the rep
 The raw data used in this analysis was sourced from Kaggle’s Superstore Sales Dataset. You can download the dataset using the link below:
 [link: Kaggle Dataset](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting/code)
 
+## Steps Involved in Analysis
+
+### 1. Data Preparation
+Before performing any analysis, the dataset needs to be cleaned and formatted properly. The steps involved include:
+- No missing and duplicated values were found.
+- Formatting date columns to ensure proper time series analysis.
+- Creating new columns [ higlighted by Green color] such as calculating the "Delivery Time" from Order Date to Ship Date, profit margin etc.  
+
+
 
