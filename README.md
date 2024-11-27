@@ -52,10 +52,22 @@ Before performing any analysis, the dataset needs to be cleaned and formatted pr
 
 
 
-### 2: Exploratory Data Analysis (EDA)
+### 2. Exploratory Data Analysis (EDA)
 
-   **Descriptive Analysis**
+  -**Descriptive Analysis**
+   
    -**Sales and Profit Analysis by Subcategory**
+     - Sales and profit analysis by subcategory provides a clear understanding of how each product subcategory is performing in terms of revenue and profitability.
+     -The Chairs subcategory emerges as the top revenue generator, contributing $328,449.10 in sales, while Copiers stands out as the most profitable subcategory, with $55,617.82 in profit. However, some subcategories like Supplies and Tables show negative profits, highlighting underperformance and potential areas for reassessment. 
+     -Despite these losses, the overall profit across all subcategories remains strong at $286,397.02, driven by high-performing categories such as Binders, Phones, and Storage, which contribute significantly to both sales and profit.
+     -Additionally, subcategories like Art and Envelopes, though generating lower sales, maintain strong profit margins, suggesting they are niche yet high-margin items. 
+     
+
+
+
+
+
+   
 
    
    - **Profit Margin Analysis by Subcategory**
