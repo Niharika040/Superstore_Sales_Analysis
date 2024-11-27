@@ -65,17 +65,18 @@ Sales and profit analysis by subcategory provides a clear understanding of how e
 
 - Some subcategories, such as **Supplies**  and **Tables**, show negative profits, highlighting underperformance and areas for potential reassessment.
 
-- Despite these losses, the overall profit across all subcategories remains strong at **$286,397.02**, driven by high-performing categories like **Binders**, **$30,221.76**, **Phones**, **$44,515.73**, and **Storage**, which significantly contribute to both sales and profit.
+- Despite these losses, the overall profit across all subcategories remains strong at **$286,397.02**, driven by high-performing categories like **Binders**, **Phones**, and **Storage**, which significantly contribute to both sales and profit.
 
 - Additionally, subcategories like **Art** and **Envelopes**, although generating lower sales, maintain strong profit margins, suggesting they are niche but high-margin items.
   
+##### **Profit Margin Analysis by Subcategory**
 
 
 
    
 
    
-   - **Profit Margin Analysis by Subcategory**
+   
    - **Sales Distribution by Category**
    - **Count of Ship Mode**
    - **Sales and Profit by Ship Mode**
