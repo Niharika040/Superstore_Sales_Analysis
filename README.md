@@ -42,6 +42,7 @@ The raw data used in this analysis was sourced from Kaggle’s Superstore Sales 
 ## Steps Involved in Analysis
 
 ### 1. Data Preparation
+
 Before performing any analysis, the dataset needs to be cleaned and formatted properly. The steps involved include:
 - No missing and duplicated values were found.
 - Formatting date columns to ensure proper time series analysis.
@@ -57,6 +58,7 @@ Before performing any analysis, the dataset needs to be cleaned and formatted pr
   -**Descriptive Analysis**
    
    -**Sales and Profit Analysis by Subcategory**
+   
      - Sales and profit analysis by subcategory provides a clear understanding of how each product subcategory is performing in terms of revenue and profitability.
      -The Chairs subcategory emerges as the top revenue generator, contributing $328,449.10 in sales, while Copiers stands out as the most profitable subcategory, with $55,617.82 in profit. However, some subcategories like Supplies and Tables show negative profits, highlighting underperformance and potential areas for reassessment. 
      -Despite these losses, the overall profit across all subcategories remains strong at $286,397.02, driven by high-performing categories such as Binders, Phones, and Storage, which contribute significantly to both sales and profit.
