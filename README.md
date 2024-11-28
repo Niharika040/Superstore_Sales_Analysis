@@ -104,31 +104,10 @@ The charts are categorized into descriptive, time-based, regional, and other ana
 
 ---
 
-## **Sample Chart Previews**
-
-### Example: Sales Trend Over Time
-- **Description**: Line chart displaying total sales across months to identify seasonal trends.
-- **Key Insights**: Highlight peak sales months and dips.
-![Sales Trend Example](https://via.placeholder.com/800x400.png?text=Sample+Sales+Trend)
-
----
-
-### Example: Regional Profit Distribution (%)
-- **Description**: Pie chart showcasing profit contribution from each region as a percentage.
-- **Key Insights**: Helps identify the most profitable regions.
-![Regional Profit Example](https://via.placeholder.com/800x400.png?text=Regional+Profit+Distribution)
-
----
-
-
-
----
 
 ## **About Me**
 I am an Excel and data visualization enthusiast with expertise in analyzing and presenting insights from large datasets. This portfolio reflects my experience in creating impactful visualizations for business intelligence.
 
----
 
-## **Connect**
-- [LinkedIn](https://linkedin.com)
-- [GitHub](https://github.com/YourUsername)
+
+
