@@ -129,13 +129,27 @@ All the charts and analysis can be found in the **Superstore_Sales_Analysis.xlsx
 - This suggests that discounts play a very minor role in driving sales, and other factors such as product quality, branding, or customer loyalty are likely more significant contributors. The low percentage of discount relative to sales indicates a strategy that focuses more on maintaining profitability and positioning products at their value rather than relying heavily on discounting.
 
   **2.5 Insights from Customer and Product Analysis and Interpretation**
-  ### Sales and Profit Analysis by Customer Segment and Product Performance
 
 - In terms of customer segments, the **Consumer** segment leads with the highest sales ($1,161,401.35) and profit ($134,119.21), indicating a strong revenue-generating and profitable customer base. The **Corporate** segment follows with $706,146.37 in sales and $91,979.13 in profit, showing a solid contribution but at a lower profitability rate compared to the Consumer segment. The **Home Office** segment has the lowest sales ($429,653.15) and profit ($60,298.68), suggesting that this customer segment, while still significant, is less impactful in terms of both revenue and profit.
 
 - Looking at the product analysis, the **Canon imageCLASS 2200 Advanced Copier** generates the highest revenue ($61,599.82), followed by the **Fellowes PB500 Electric Punch Plastic Comb Binding Machine** with $27,453.38, and the **Cisco TelePresence System EX90 Videoconferencing Unit** at $22,638.48. This suggests that products related to office equipment and technology play a key role in driving sales, particularly in categories like copiers, printers, and binding systems.
 
 - Together, these findings indicate that the Superstore's strategy might benefit from focusing on expanding offerings within these high-performing customer segments and product categories to maximize revenue and profit.
+
+    **2.6 Insights from Revenue Breakdown Analysis and Interpretation**
+  
+, with subcategories such as **Chairs**, **Binders**, and **Storage** making key contributions.
+
+- The **Profit to Sales Ratio** analysis provides insight into the efficiency of sales in terms of profitability across different ranges. 
+
+- The **0-10% range** shows the highest profitability with a ratio of **0.29**, contributing **$1,142,277.82** in sales and **$330,016.78** in profit. This indicates that the majority of sales within this range are generating positive profits.
+  
+- However, as the ratio increases beyond 20%, the profitability decreases, with negative ratios observed in the **20-30%**, **30-40%**, and higher ranges, which correspond to declining profits despite the sales. This indicates that higher discount ranges are associated with lower profit margins or losses.
+
+- In summary, the **Technology** and **Furniture** categories dominate sales, with subcategories like **Chairs**, **Binders**, and **Storage** contributing significantly to overall revenue. However, when examining profitability in relation to sales, a clear trend emerges: higher discount ranges are linked with reduced profit margins. The **0-10% profit-to-sales ratio** range shows the most favorable balance between sales and profit, suggesting that more moderate discounting strategies may lead to healthier profit margins. As the discount percentage increases, the profitability decreases, with negative ratios observed in higher discount ranges, implying that larger discounts are hurting profitability.
+
+The Superstore's strategy might benefit from a more focused approach on offering higher-margin products in the **Technology** and **Furniture** categories, while managing discount strategies carefully to avoid margin erosion in higher discount bands. The data indicates that maintaining moderate discounts may strike a better balance between sales and profit generation.
+
 
 
 ## **About Me**
