@@ -89,9 +89,13 @@ All the charts and analysis can be found in the **Superstore_Sales_Analysis.xlsx
   -**General Sales Trends:**
   
      -Sales Peak in the Last Quarter: Sales tend to be highest in the last quarter of the year (October, November, December), particularly in 2016 and 2017.
+     
      -November Sales Spike: There is a consistent spike in sales in November across all years, likely due to Black Friday and holiday shopping.
+     
 Average Delivery Time:
+
      -Same Day and First Class Delivery: The quickest delivery options are Same Day (0 days) and First Class (2 days), which are ideal for customers seeking fast deliveries.
+     
      -Second Class and Standard Class Delivery: These options have longer average times (3 and 5 days, respectively), which may negatively impact customer satisfaction and sales, particularly during peak seasons.
 
  **Sales Performance vs. Delivery Time**
