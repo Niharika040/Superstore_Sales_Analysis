@@ -51,48 +51,22 @@ Before performing any analysis, the dataset needs to be cleaned and formatted pr
   ### Cleaned Dataset
   -**File Name**:-[Cleaned dataset]
 
+The charts are categorized into descriptive, time-based, regional, and other analytical themes for easy navigation.
 
-  ├── analysis-reports/      
-│   ├── sales_trends_analysis.pdf
-│   └── profitability_by_region.pdf
+---
 
+## **Categories and Charts**
 
-     
-### 2. Exploratory Data Analysis (EDA)
-
-#### Descriptive Analysis
-
-##### Sales and Profit Analysis by Subcategory
-
-
-  
-##### **Profit Margin Analysis by Subcategory**
-
-
-
-
-  ##### **Sales Distribution by Category**
-
-
-
-##### **Count of Ship Mode**
-
-
-
-##### **Sales and Profit by Ship Mode**
-
-
-
-
-
-
-
-
-
-
+### **1. Descriptive Analysis**
+   - **Sales and Profit Analysis by Subcategory**
+   - **Profit Margin Analysis by Subcategory**
+   - **Sales Distribution by Category**
+   - **Count of Ship Mode**
+   - **Sales and Profit by Ship Mode**
    - **Count of Customer ID**
    - **Total Quantity Ordered by Category**
    - **Segment Count Analysis by Subcategory**
+
 
 ---
 
@@ -146,10 +120,7 @@ Before performing any analysis, the dataset needs to be cleaned and formatted pr
 
 ---
 
-## **How to Use These Charts**
-- Open the Excel file containing your dataset.
-- Use the chart types mentioned above to replicate the visualizations.
-- Customize based on your dataset to derive actionable insights.
+
 
 ---
 
@@ -161,5 +132,3 @@ I am an Excel and data visualization enthusiast with expertise in analyzing and 
 ## **Connect**
 - [LinkedIn](https://linkedin.com)
 - [GitHub](https://github.com/YourUsername)
-
-
