@@ -138,8 +138,14 @@ All the charts and analysis can be found in the **Superstore_Sales_Analysis.xlsx
 
     **2.6 Insights from Revenue Breakdown Analysis and Interpretation**
   
-, with subcategories such as **Chairs**, **Binders**, and **Storage** making key contributions.
+  - The total sales revenue from the Superstore dataset amounts to **$2,297,200.86**, with significant contributions from different product categories and subcategories. 
 
+- **Technology** leads with the highest sales of **$836,154.03**, followed by **Furniture** at **$741,999.80** and **Office Supplies** at **$719,047.03**.
+  
+- In terms of subcategories, **Chairs** within the Furniture category contribute the highest sales at **$328,449.10**, followed by **Binders** at **$203,412.73** and **Copiers** at **$149,528.03**. Other notable subcategories include **Accessories** with **$167,380.32** and **Storage** with **$223,843.61**. 
+
+- These findings suggest that **Technology** and **Furniture** are the dominant categories in terms of revenue, with subcategories such as **Chairs**, **Binders**, and **Storage** making key contributions.
+  
 - The **Profit to Sales Ratio** analysis provides insight into the efficiency of sales in terms of profitability across different ranges. 
 
 - The **0-10% range** shows the highest profitability with a ratio of **0.29**, contributing **$1,142,277.82** in sales and **$330,016.78** in profit. This indicates that the majority of sales within this range are generating positive profits.
