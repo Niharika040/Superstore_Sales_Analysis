@@ -70,7 +70,7 @@ All the charts and analysis can be found in the **Superstore_Sales_Analysis.xlsx
 
 **Insights from Descriptive Analysis and Interpretation**
 
-    - The comprehensive analysis of the Superstore dataset reveals valuable insights across subcategories, categories, shipping modes, customer segments, regional performance, and the impact of discounts on sales and profit margins.
+   - The comprehensive analysis of the Superstore dataset reveals valuable insights across subcategories, categories, shipping modes, customer segments, regional performance, and the impact of discounts on sales and profit margins.
 
    - Subcategory analysis highlights significant disparities in performance. While Copiers, Paper, and Labels demonstrate exceptional profitability with profit margins exceeding 40%, categories like Tables (-9%) and Supplies (-3%) generate losses despite moderate sales volumes, indicating operational inefficiencies or misaligned pricing strategies.
      
