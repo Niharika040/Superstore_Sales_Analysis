@@ -90,7 +90,7 @@ The sales distribution is categorized into three primary segments: Furniture, Of
 - The close distribution among the three categories indicates a balanced revenue stream, reducing over-reliance on any single segment.
 
 
-### **Count of Ship Mode**
+##### **Count of Ship Mode**
 
 The dataset provides the count of shipments for each U.S. state, representing the distribution of shipping activities across the country.
 
@@ -104,6 +104,7 @@ The dataset provides the count of shipments for each U.S. state, representing th
    - Central and sparsely populated states such as **Wyoming** and **North Dakota** contribute the least to shipping activities.
 
 
+##### **Sales and Profit by Ship Mode**
 
 
 
@@ -114,10 +115,6 @@ The dataset provides the count of shipments for each U.S. state, representing th
 
 
 
-
-
-
-   - **Sales and Profit by Ship Mode**
    - **Count of Customer ID**
    - **Total Quantity Ordered by Category**
    - **Segment Count Analysis by Subcategory**
