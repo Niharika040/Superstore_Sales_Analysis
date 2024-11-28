@@ -131,7 +131,7 @@ California (West region) leads in sales revenue with $457,687.63, significantly 
 
     **2.6 Insights from Revenue Breakdown Analysis and Interpretation**
   
-  - The total sales revenue from the Superstore dataset amounts to **$2,297,200.86**, with significant contributions from different product categories and subcategories. 
+- The total sales revenue from the Superstore dataset amounts to **$2,297,200.86**, with significant contributions from different product categories and subcategories. 
 
 - **Technology** leads with the highest sales of **$836,154.03**, followed by **Furniture** at **$741,999.80** and **Office Supplies** at **$719,047.03**.
   
@@ -147,7 +147,7 @@ California (West region) leads in sales revenue with $457,687.63, significantly 
 
 - In summary, the **Technology** and **Furniture** categories dominate sales, with subcategories like **Chairs**, **Binders**, and **Storage** contributing significantly to overall revenue. However, when examining profitability in relation to sales, a clear trend emerges: higher discount ranges are linked with reduced profit margins. The **0-10% profit-to-sales ratio** range shows the most favorable balance between sales and profit, suggesting that more moderate discounting strategies may lead to healthier profit margins. As the discount percentage increases, the profitability decreases, with negative ratios observed in higher discount ranges, implying that larger discounts are hurting profitability.
 
-The Superstore's strategy might benefit from a more focused approach on offering higher-margin products in the **Technology** and **Furniture** categories, while managing discount strategies carefully to avoid margin erosion in higher discount bands. The data indicates that maintaining moderate discounts may strike a better balance between sales and profit generation.
+- The Superstore's strategy might benefit from a more focused approach on offering higher-margin products in the **Technology** and **Furniture** categories, while managing discount strategies carefully to avoid margin erosion in higher discount bands. The data indicates that maintaining moderate discounts may strike a better balance between sales and profit generation.
 
 
 
