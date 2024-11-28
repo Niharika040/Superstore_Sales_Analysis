@@ -52,6 +52,11 @@ Before performing any analysis, the dataset needs to be cleaned and formatted pr
   -**File Name**:-[Cleaned dataset]
 
 
+  ├── analysis-reports/      
+│   ├── sales_trends_analysis.pdf
+│   └── profitability_by_region.pdf
+
+
      
 ### 2. Exploratory Data Analysis (EDA)
 
@@ -59,49 +64,19 @@ Before performing any analysis, the dataset needs to be cleaned and formatted pr
 
 ##### Sales and Profit Analysis by Subcategory
 
-Sales and profit analysis by subcategory provides a clear understanding of how each product subcategory is performing in terms of revenue and profitability.
 
-- **Chairs** emerges as the top revenue generator, contributing **$328,449.10** in sales, while **Copiers** stands out as the most profitable subcategory, with **$55,617.82** in profit.
-
-- Some subcategories, such as **Supplies**  and **Tables**, show negative profits, highlighting underperformance and areas for potential reassessment.
-
-- Despite these losses, the overall profit across all subcategories remains strong at **$286,397.02**, driven by high-performing categories like **Binders**, **Phones**, and **Storage**, which significantly contribute to both sales and profit.
-
-- Additionally, subcategories like **Art** and **Envelopes**, although generating lower sales, maintain strong profit margins, suggesting they are niche but high-margin items.
   
 ##### **Profit Margin Analysis by Subcategory**
 
-This analysis focuses on the profit margins achieved by each subcategory in the Superstore dataset. Profit margin is a critical metric that indicates the profitability of a product or category as a percentage of sales. This analysis helps in identifying high-margin and low-margin subcategories, enabling better decision-making regarding pricing, marketing, and inventory strategies.
 
-- High-performing subcategories such as **Labels** (44%), **Paper** (43%), and **Envelopes** (42%) demonstrate exceptional efficiency in converting sales into profit, making them ideal candidates for further investment and promotional efforts. Additionally, subcategories like **Copiers** (37%) and **Fasteners** (31%) exhibit strong profit margins, highlighting their potential for growth and strategic prioritization.
-
-- Moderate performers, including **Accessories** (25%), **Art** (24%), and **Appliances** (17%), maintain respectable profitability and could benefit from targeted marketing strategies to enhance their revenue potential. On the other hand, low-margin subcategories like **Machines** (2%) and **Chairs** (8%) may require a review of their pricing structures and operational costs to improve profitability.
-
-- Subcategories with negative margins, such as **Bookcases** (-3%), **Supplies** (-3%), and **Tables** (-9%), demand immediate attention to address underlying issues, such as high costs or over-discounting, to mitigate losses and enhance overall business performance.
 
 
   ##### **Sales Distribution by Category**
 
-The sales distribution is categorized into three primary segments: Furniture, Office Supplies, and Technology. The percentages represent the share of total sales contributed by each category.
-
-
-- **Technology** leads with the highest sales contribution (36.40%), indicating its critical role in driving overall revenue. This suggests a robust demand for technology products, which warrants sustained inventory management and marketing focus.
-- **Furniture** and **Office Supplies** contribute almost equally, with 32.30% and 31.30%, respectively. While these categories are slightly behind Technology, their significant share highlights the need for strategic efforts to maintain competitive positioning.
-- The close distribution among the three categories indicates a balanced revenue stream, reducing over-reliance on any single segment.
 
 
 ##### **Count of Ship Mode**
 
-The dataset provides the count of shipments for each U.S. state, representing the distribution of shipping activities across the country.
-
-- **California** accounts for the highest shipping activity with 2001 shipments, reflecting its significant consumer base and business operations, followed by **New York** with 1128 shipments, indicating high demand for products and shipping services, and **Texas** with 985 shipments, emphasizing its role as a major hub for commerce and distribution.
-  
-- States like **Florida**, **Illinois**, **Pennsylvania**, and **Washington** show substantial shipping activity, which highlights their importance as regional markets.
-
-- States like **Wyoming**, **West Virginia**, **North Dakota**, and **Maine** show minimal shipping activity, which may reflect lower population density or limited market penetration in these areas.
-
- - Coastal states such as **California**, **New York**, and **Florida** dominate shipping volumes due to their large economies and significant population centers.
-   - Central and sparsely populated states such as **Wyoming** and **North Dakota** contribute the least to shipping activities.
 
 
 ##### **Sales and Profit by Ship Mode**
