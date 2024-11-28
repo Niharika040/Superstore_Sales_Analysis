@@ -156,6 +156,26 @@ All the charts and analysis can be found in the **Superstore_Sales_Analysis.xlsx
 
 The Superstore's strategy might benefit from a more focused approach on offering higher-margin products in the **Technology** and **Furniture** categories, while managing discount strategies carefully to avoid margin erosion in higher discount bands. The data indicates that maintaining moderate discounts may strike a better balance between sales and profit generation.
 
+Categories and Charts
+1. Descriptive Analysis
+Sales and Profit Analysis by Subcategory
+Profit Margin Analysis by Subcategory
+Sales Distribution by Category
+Count of Ship Mode
+Sales and Profit by Ship Mode
+Count of Customer ID
+Total Quantity Ordered by Category
+Segment Count Analysis by Subcategory
+
+3. Regional Analysis
+Regional Profit Distribution (%)
+
+4. Discount and Profit Analysis
+Category-Wise Distribution of Discount and Value
+Effect of Discount on Profit Margin
+Sales and Profit by Discount Range
+
+
 
 
 ## **About Me**
