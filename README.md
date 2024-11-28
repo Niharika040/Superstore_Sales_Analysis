@@ -110,9 +110,9 @@ All the charts and analysis can be found in the **Superstore_Sales_Analysis.xlsx
 
 **2.3 Insights from Regional Analysis Analysis and Interpretation**
 
-- California leads the states with the highest sales revenue, reaching **$457,687.63**, significantly surpassing other states like New York (**$310,876.27**) and Texas (**$170,188.05**). These top three states contribute a substantial portion of total sales, demonstrating that the most populous and economically active regions are driving a major share of the revenue. 
+- **California(West region)** leads the states with the highest sales revenue, reaching **$457,687.63**, significantly surpassing other states like New York (**$310,876.27**) and Texas (**$170,188.05**). These top three states contribute a substantial portion of total sales, demonstrating that the most populous and economically active regions are driving a major share of the revenue. 
 
-- On the city level, **New York City** tops the list with **$256,368.16** in sales, outpacing major cities such as **Los Angeles** (**$175,851.34**) and **Seattle** (**$119,540.74**), highlighting the importance of urban hubs in driving high sales.
+- On the city level, **New York City (east region)** tops the list with **$256,368.16** in sales, outpacing major cities such as **Los Angeles** (**$175,851.34**) and **Seattle** (**$119,540.74**), highlighting the importance of urban hubs in driving high sales.
 
 - In addition to leading in sales, California also delivers a strong profit of **$76,381.39**, suggesting efficient cost management and robust market demand. In contrast, states like **New York** and **Florida**, despite generating high sales, report negative profits. This discrepancy implies that while these states are successful in driving revenue, operational costs or pricing strategies may be hindering profitability. 
 
