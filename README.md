@@ -84,6 +84,34 @@ All the charts and analysis can be found in the **Superstore_Sales_Analysis.xlsx
 
   - Lastly, the analysis of total quantity ordered reinforces the dominance of Office Supplies, accounting for 60% of total quantities, but with relatively low margins. This contrasts with the high-margin contributions of the Technology category, which, despite lower quantities, significantly bolsters overall profitability.
 
+**Insights from Time-based Analysis and Interpretation**
+
+  -**General Sales Trends:**
+  
+     -Sales Peak in the Last Quarter: Sales tend to be highest in the last quarter of the year (October, November, December), particularly in 2016 and 2017.
+     -November Sales Spike: There is a consistent spike in sales in November across all years, likely due to Black Friday and holiday shopping.
+Average Delivery Time:
+     -Same Day and First Class Delivery: The quickest delivery options are Same Day (0 days) and First Class (2 days), which are ideal for customers seeking fast deliveries.
+     -Second Class and Standard Class Delivery: These options have longer average times (3 and 5 days, respectively), which may negatively impact customer satisfaction and sales, particularly during peak seasons.
+
+ **Sales Performance vs. Delivery Time**
+
+- **2014:** Sales were moderate at $484K, and Standard Class delivery time was 5 days, which could have led to slower customer responses during peak months.
+
+- **2015:** Sales dropped slightly to $470K, potentially due to the 5-day delivery of Standard Class, which in a competitive market could have deterred customers. While Same Day delivery (0 days) would have been optimal, it was likely not as common.
+- **2016:** Sales rose to $609K, correlating with the availability of faster delivery options (e.g., Same Day and First Class), which likely enhanced customer satisfaction.
+- **2017:** Sales peaked at $733K, aligning with the increased availability of quick delivery options across regions. November saw the highest sales, where faster delivery likely played a key role.
+  
+**Monthly Sales vs. Delivery Times:**
+
+- **January - March:** Sales were lower during these months, likely due to post-holiday spending drops. Delivery times across regions remained consistent with Standard Class (5 days) being the dominant option, though Same Day (0 days) and First Class (2 days) were likely less common during these slower months.
+  
+- **April - September:** Sales were moderate, with delivery times still hovering between 2 and 5 days. There was no noticeable surge in sales, but Same Day and First Class deliveries could potentially boost sales during these mid-year lulls.
+  
+- **October - December:** Sales peaked, especially in November and December. During these busy months, faster delivery options (Same Day, First Class) likely became more critical. Faster delivery options seemed to correlate with higher sales, as customers prioritized quick shipments during the holiday season.
+
+
+
 
 ## **About Me**
 I am an Excel and data visualization enthusiast with expertise in analyzing and presenting insights from large datasets. This portfolio reflects my experience in creating impactful visualizations for business intelligence.
