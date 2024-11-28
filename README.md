@@ -74,7 +74,7 @@ All the charts and analysis can be found in the **Superstore_Sales_Analysis.xlsx
 
    - Subcategory analysis highlights significant disparities in performance. While Copiers, Paper, and Labels demonstrate exceptional profitability with profit margins exceeding 40%, categories like Tables (-9%) and Supplies (-3%) generate losses despite moderate sales volumes, indicating operational inefficiencies or misaligned pricing strategies.
      
-   - The Technology category dominates overall sales, contributing 36.4% of total revenue, closely followed by Furniture (32.3%) and Office Supplies (31.3%), reflecting diverse customer preferences. However, low-performing subcategories such as Machines and Bookcases present opportunities for reevaluation and repositioning.
+   - The Technology category dominates overall sales, contributing 36.4% of total revenue, closely followed by Furniture (32.3%) and Office Supplies (31.3%), reflecting diverse customer preferences. However,low-performing subcategories such as Machines and Bookcases present opportunities for reevaluation and repositioning.
 
    - Shipping modes show varying utilization and profitability. Standard Class is the most utilized, contributing the majority of sales, whereas First Class and Same Day services, despite their smaller share, exhibit higher profitability, suggesting potential for premium targeting. In customer segmentation, the Consumer segment accounts for over 50% of orders, but there is untapped potential in the Corporate and Home Office segments, which could benefit from customized offerings.
 
@@ -118,9 +118,24 @@ All the charts and analysis can be found in the **Superstore_Sales_Analysis.xlsx
 
 - On the other hand, states such as **Georgia** (**$16,250.04**), **Michigan** (**$24,463.19**), and **Washington** (**$33,402.65**) demonstrate positive profits, indicating they are not only making strong sales but also managing their costs efficiently, resulting in healthier margins.
 
-This analysis reveals notable discrepancies between sales and profits, particularly in states like **New York** and **Florida**, where high sales figures do not correspond to high profits. Such issues may be attributed to higher costs of goods sold (**COGS**), operational inefficiencies, or external factors like increased competition or market saturation. 
+- This analysis reveals notable discrepancies between sales and profits, particularly in states like **New York** and **Florida**, where high sales figures do not correspond to high profits. Such issues may be attributed to higher costs of goods sold (**COGS**), operational inefficiencies, or external factors like increased competition or market saturation. 
 
 - In contrast, **California**, **Michigan**, and **Washington** show a strong correlation between high sales and high profits, suggesting effective cost management and strategic market positioning in these regions. However, larger states like **Texas** and **New York**, despite their impressive sales figures, also face significant profit challenges. These challenges may stem from high competition, logistical costs, or underperforming sectors within these regions, ultimately impacting their overall profitability.
+
+
+**2.4 Insights from Discount and Profit Analysis and Interpretation**
+
+- The data shows that discounts have a minimal impact on sales across all categories. Furniture, Office Supplies, and Technology have discounts as a percentage of sales of 0.05%, 0.13%, and 0.03%, respectively, with the overall discount across all categories being just 0.07% of total sales.
+- This suggests that discounts play a very minor role in driving sales, and other factors such as product quality, branding, or customer loyalty are likely more significant contributors. The low percentage of discount relative to sales indicates a strategy that focuses more on maintaining profitability and positioning products at their value rather than relying heavily on discounting.
+
+  **2.5 Insights from Customer and Product Analysis and Interpretation**
+  ### Sales and Profit Analysis by Customer Segment and Product Performance
+
+- In terms of customer segments, the **Consumer** segment leads with the highest sales ($1,161,401.35) and profit ($134,119.21), indicating a strong revenue-generating and profitable customer base. The **Corporate** segment follows with $706,146.37 in sales and $91,979.13 in profit, showing a solid contribution but at a lower profitability rate compared to the Consumer segment. The **Home Office** segment has the lowest sales ($429,653.15) and profit ($60,298.68), suggesting that this customer segment, while still significant, is less impactful in terms of both revenue and profit.
+
+- Looking at the product analysis, the **Canon imageCLASS 2200 Advanced Copier** generates the highest revenue ($61,599.82), followed by the **Fellowes PB500 Electric Punch Plastic Comb Binding Machine** with $27,453.38, and the **Cisco TelePresence System EX90 Videoconferencing Unit** at $22,638.48. This suggests that products related to office equipment and technology play a key role in driving sales, particularly in categories like copiers, printers, and binding systems.
+
+- Together, these findings indicate that the Superstore's strategy might benefit from focusing on expanding offerings within these high-performing customer segments and product categories to maximize revenue and profit.
 
 
 ## **About Me**
