@@ -68,10 +68,13 @@ Before performing any analysis, the dataset needs to be cleaned and formatted pr
 All the charts and analysis can be found in the **Superstore_Sales_Analysis.xlsx** file in this repository. You can easily explore the data and charts by navigating through the different sheets in the file.
 
 
-## ** Insights from Descriptive Analysis and Interpretation**
+**Insights from Descriptive Analysis and Interpretation**
+
     - The comprehensive analysis of the Superstore dataset reveals valuable insights across subcategories, categories, shipping modes, customer segments, regional performance, and the impact of discounts on sales and profit margins.
 
-   - Subcategory analysis highlights significant disparities in performance. While Copiers, Paper, and Labels demonstrate exceptional profitability with profit margins exceeding 40%, categories like Tables (-9%) and Supplies (-3%) generate losses despite moderate sales volumes, indicating operational inefficiencies or misaligned pricing strategies. The Technology category dominates overall sales, contributing 36.4% of total revenue, closely followed by Furniture (32.3%) and Office Supplies (31.3%), reflecting diverse customer preferences. However, low-performing subcategories such as Machines and Bookcases present opportunities for reevaluation and repositioning.
+   - Subcategory analysis highlights significant disparities in performance. While Copiers, Paper, and Labels demonstrate exceptional profitability with profit margins exceeding 40%, categories like Tables (-9%) and Supplies (-3%) generate losses despite moderate sales volumes, indicating operational inefficiencies or misaligned pricing strategies.
+     
+   - The Technology category dominates overall sales, contributing 36.4% of total revenue, closely followed by Furniture (32.3%) and Office Supplies (31.3%), reflecting diverse customer preferences. However, low-performing subcategories such as Machines and Bookcases present opportunities for reevaluation and repositioning.
 
    - Shipping modes show varying utilization and profitability. Standard Class is the most utilized, contributing the majority of sales, whereas First Class and Same Day services, despite their smaller share, exhibit higher profitability, suggesting potential for premium targeting. In customer segmentation, the Consumer segment accounts for over 50% of orders, but there is untapped potential in the Corporate and Home Office segments, which could benefit from customized offerings.
 
