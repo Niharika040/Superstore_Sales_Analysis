@@ -80,14 +80,121 @@ This analysis focuses on the profit margins achieved by each subcategory in the 
 - Subcategories with negative margins, such as **Bookcases** (-3%), **Supplies** (-3%), and **Tables** (-9%), demand immediate attention to address underlying issues, such as high costs or over-discounting, to mitigate losses and enhance overall business performance.
 
 
+  ##### **Sales Distribution by Category**
+
+The sales distribution is categorized into three primary segments: Furniture, Office Supplies, and Technology. The percentages represent the share of total sales contributed by each category.
 
 
-   
+- **Technology** leads with the highest sales contribution (36.40%), indicating its critical role in driving overall revenue. This suggests a robust demand for technology products, which warrants sustained inventory management and marketing focus.
+- **Furniture** and **Office Supplies** contribute almost equally, with 32.30% and 31.30%, respectively. While these categories are slightly behind Technology, their significant share highlights the need for strategic efforts to maintain competitive positioning.
+- The close distribution among the three categories indicates a balanced revenue stream, reducing over-reliance on any single segment.
 
-   
-   
-   - **Sales Distribution by Category**
-   - **Count of Ship Mode**
+
+###**Count of Ship Mode**
+
+# Ship Mode Analysis by State
+
+### Dataset Overview
+The dataset provides the count of shipments for each U.S. state, representing the distribution of shipping activities across the country.
+
+---
+
+### Key Insights
+1. **High Shipment States**:
+   - **California**: With 2001 shipments, California accounts for the highest shipping activity, reflecting its significant consumer base or business operations.
+   - **Texas**: 985 shipments, emphasizing its role as a major hub for commerce and distribution.
+   - **New York**: 1128 shipments, indicating a high demand for products and shipping services.
+
+2. **Moderate Shipment States**:
+   - States like **Florida (383)**, **Illinois (492)**, **Pennsylvania (587)**, and **Washington (506)** show substantial shipping activity, which highlights their importance as regional markets.
+
+3. **Low Shipment States**:
+   - States like **Wyoming (1)**, **West Virginia (4)**, **North Dakota (7)**, and **Maine (8)** show minimal shipping activity, which may reflect lower population density or limited market penetration in these areas.
+
+4. **Geographical Patterns**:
+   - Coastal states such as **California**, **New York**, and **Florida** dominate shipping volumes due to their large economies and significant population centers.
+   - Central and sparsely populated states such as **Wyoming** and **North Dakota** contribute the least to shipping activities.
+
+---
+
+### Recommendations
+1. **Focus on High-Volume States**:
+   - Increase shipping infrastructure and optimize delivery routes in states like California, Texas, and New York to enhance service efficiency and customer satisfaction.
+
+2. **Explore Untapped Potential in Low-Volume States**:
+   - Investigate the reasons for low shipping activity in states like Wyoming and Maine, and consider targeted marketing or partnerships to increase penetration.
+
+3. **Regional Optimization**:
+   - Develop regional hubs in moderate shipment states like Illinois and Pennsylvania to balance shipping loads and improve delivery times.
+
+4. **Analyze Trends**:
+   - Further analysis of population density, business hubs, and customer demand in low-performing regions can help identify growth opportunities.
+
+---
+
+### Data Table
+| **State**                  | **Count of Ship Mode** |
+|----------------------------|-----------------------:|
+| Alabama                   | 61                    |
+| Arizona                   | 224                   |
+| Arkansas                  | 60                    |
+| California                | 2001                  |
+| Colorado                  | 182                   |
+| Connecticut               | 82                    |
+| Delaware                  | 96                    |
+| District of Columbia      | 10                    |
+| Florida                   | 383                   |
+| Georgia                   | 184                   |
+| Idaho                     | 21                    |
+| Illinois                  | 492                   |
+| Indiana                   | 149                   |
+| Iowa                      | 30                    |
+| Kansas                    | 24                    |
+| Kentucky                  | 139                   |
+| Louisiana                 | 42                    |
+| Maine                     | 8                     |
+| Maryland                  | 105                   |
+| Massachusetts             | 135                   |
+| Michigan                  | 255                   |
+| Minnesota                 | 89                    |
+| Mississippi               | 53                    |
+| Missouri                  | 66                    |
+| Montana                   | 15                    |
+| Nebraska                  | 38                    |
+| Nevada                    | 39                    |
+| New Hampshire             | 27                    |
+| New Jersey                | 130                   |
+| New Mexico                | 37                    |
+| New York                  | 1128                  |
+| North Carolina            | 249                   |
+| North Dakota              | 7                     |
+| Ohio                      | 469                   |
+| Oklahoma                  | 66                    |
+| Oregon                    | 124                   |
+| Pennsylvania              | 587                   |
+| Rhode Island              | 56                    |
+| South Carolina            | 42                    |
+| South Dakota              | 12                    |
+| Tennessee                 | 183                   |
+| Texas                     | 985                   |
+| Utah                      | 53                    |
+| Vermont                   | 11                    |
+| Virginia                  | 224                   |
+| Washington                | 506                   |
+| West Virginia             | 4                     |
+| Wisconsin                 | 110                   |
+| Wyoming                   | 1                     |
+
+
+
+
+
+
+
+
+
+
+
    - **Sales and Profit by Ship Mode**
    - **Count of Customer ID**
    - **Total Quantity Ordered by Category**
