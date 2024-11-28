@@ -46,63 +46,27 @@ The raw data used in this analysis was sourced from Kaggle’s Superstore Sales 
 Before performing any analysis, the dataset needs to be cleaned and formatted properly. The steps involved include:
 - No missing and duplicated values were found.
 - Formatting date columns to ensure proper time series analysis.
-- Creating new columns [ higlighted by Green color] such as calculating the "Delivery Time" from Order Date to Ship Date, profit margin etc.
+- Creating new columns [highlighted by Green color] such as calculating the "Delivery Time" from Order Date to Ship Date, profit margin, etc.
 
   ### Cleaned Dataset
   -**File Name**:-[Cleaned dataset]
 
 The charts are categorized into descriptive, time-based, regional, and other analytical themes for easy navigation.
 
----
 
 ## **Categories and Charts**
 
-### **1. Descriptive Analysis**
-   - **Sales and Profit Analysis by Subcategory**
-   - **Profit Margin Analysis by Subcategory**
-   - **Sales Distribution by Category**
-   - **Count of Ship Mode**
-   - **Sales and Profit by Ship Mode**
-   - **Count of Customer ID**
-   - **Total Quantity Ordered by Category**
-   - **Segment Count Analysis by Subcategory**
+ The Excel file `Superstore_Sales_Analysis.xlsx` contains multiple charts and insights categorized as follows:
 
+1. **Descriptive Analysis**: Sales and Profit by Subcategory, Profit Margin Analysis, etc.
+2. **Time-Based Analysis**: Sales Trend Over Time, Average Delivery Time Across Regions.
+3. **Regional Analysis**: Profit and Sales by Region, Top 10 States and Cities by Revenue.
+4. **Discount and Profit Analysis**: Impact of Discount on Sales and Profit.
+5. **Customer and Product Analysis**: Sales and Profit by Customer Segment, Highest Revenue-Generating Product.
+6. **Revenue Breakdown**: Breakdown by Category/Subcategory, Profit to Sales Ratio.
 
----
+All the charts and analysis can be found in the **Superstore_Sales_Analysis.xlsx** file in this repository. You can easily explore the data and charts by navigating through the different sheets in the file.
 
-### **2. Time-Based Analysis**
-   - **Sales Trend Over Time**
-   - **Average Delivery Time Across Regions**
-
----
-
-### **3. Regional Analysis**
-   - **Regional Profit Distribution (%)**
-   - **Geographic Profit Analysis**
-   - **Top 10 States by Sales Revenue**
-   - **Top Cities by Sales Revenue**
-
----
-
-### **4. Discount and Profit Analysis**
-   - **Category-Wise Distribution of Discount and Value**
-   - **Impact of Discount on Sales Across Product Categories**
-   - **Effect of Discount on Profit Margin**
-   - **Sales and Profit by Discount Range**
-
----
-
-### **5. Customer and Product Analysis**
-   - **Sales and Profit by Customer Segment**
-   - **Highest Revenue-Generating Product**
-
----
-
-### **6. Revenue Breakdown**
-   - **Revenue Breakdown by Category and Subcategory**
-   - **Profit-to-Sales Ratio**
-
----
 
 
 ## **About Me**
