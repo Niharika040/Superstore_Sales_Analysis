@@ -52,6 +52,14 @@ Before performing any analysis, the dataset needs to be cleaned and formatted pr
 
 
 All the charts and analysis can be found in the [Superstore_Sales_Analysis](./Superstore_Sales_Analysis.xlsx) file in this repository. You can easily explore the data and charts by navigating through the different sheets in the file.
+Charts and insights categorized as follows:
+
+1. **Descriptive Analysis**: Sales and Profit by Subcategory, Profit Margin Analysis, etc.
+2. **Time-Based Analysis**: Sales Trend Over Time, Average Delivery Time Across Regions.
+3. **Regional Analysis**: Profit and Sales by Region, Top 10 States and Cities by Revenue.
+4. **Discount and Profit Analysis**: Impact of Discount on Sales and Profit.
+5. **Customer and Product Analysis**: Sales and Profit by Customer Segment, Highest Revenue-Generating Product.
+6. **Revenue Breakdown**: Breakdown by Category/Subcategory, Profit to Sales Ratio.
 
 
 **2.1 Insights from Descriptive Analysis and Interpretation**
