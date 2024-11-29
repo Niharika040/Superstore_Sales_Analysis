@@ -24,16 +24,7 @@ Key Excel Features Used:
 The raw data used in this analysis was sourced from Kaggle’s Superstore Sales Dataset. You can download the dataset using the link below:
 [link: Kaggle Dataset](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting/code)
 
- The Excel file `Superstore_Sales_Analysis.xlsx` contains multiple charts and insights categorized as follows:
-
-1. **Descriptive Analysis**: Sales and Profit by Subcategory, Profit Margin Analysis, etc.
-2. **Time-Based Analysis**: Sales Trend Over Time, Average Delivery Time Across Regions.
-3. **Regional Analysis**: Profit and Sales by Region, Top 10 States and Cities by Revenue.
-4. **Discount and Profit Analysis**: Impact of Discount on Sales and Profit.
-5. **Customer and Product Analysis**: Sales and Profit by Customer Segment, Highest Revenue-Generating Product.
-6. **Revenue Breakdown**: Breakdown by Category/Subcategory, Profit to Sales Ratio.
-
-
+ 
 ## Steps Involved in Analysis
 
 ### 1. Data Preparation
