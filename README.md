@@ -43,7 +43,7 @@ Before performing any analysis, the dataset needs to be cleaned and formatted pr
 ### 2. EDA
 
 
-All the charts and analysis can be found in the [Superstore_Sales_Analysis.xlsx](./Superstore_Sales_Analysis.xlsx) file in this repository. You can easily explore the data and charts by navigating through the different sheets in the file.
+All the charts and analysis can be found in the [Superstore_Sales_Analysis](./Superstore_Sales_Analysis.xlsx) file in this repository. You can easily explore the data and charts by navigating through the different sheets in the file.
 
 
 **2.1 Insights from Descriptive Analysis and Interpretation**
