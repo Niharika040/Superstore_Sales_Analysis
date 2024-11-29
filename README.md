@@ -107,7 +107,7 @@ California (West region) leads in sales revenue with $457,687.63, significantly 
 
 - Profit margins are strongest at 0% discount (34.02%) and decline sharply beyond 30%, turning negative at 40% or higher. While Technology remains resilient to moderate discounts, Furniture and Office Supplies face significant margin erosion at high discount levels. To optimize performance, the business should focus on low to moderate discounting (0–20%), avoid deep discounts, and enhance value through strategic pricing, bundling, and targeted promotions tailored to category-specific demand patterns.
 
-  **2.5 Insights from Customer and Product Analysis and Interpretation**
+**2.5 Insights from Customer and Product Analysis and Interpretation**
 
 - In terms of customer segments, the **Consumer** segment leads with the highest sales ($1,161,401.35) and profit ($134,119.21), indicating a strong revenue-generating and profitable customer base. The **Corporate** segment follows with $706,146.37 in sales and $91,979.13 in profit, showing a solid contribution but at a lower profitability rate compared to the Consumer segment. The **Home Office** segment has the lowest sales ($429,653.15) and profit ($60,298.68), suggesting that this customer segment, while still significant, is less impactful in terms of both revenue and profit.
 
@@ -115,7 +115,7 @@ California (West region) leads in sales revenue with $457,687.63, significantly 
 
 - Together, these findings indicate that the Superstore's strategy might benefit from focusing on expanding offerings within these high-performing customer segments and product categories to maximize revenue and profit.
 
-  **2.6 Insights from Revenue Breakdown Analysis and Interpretation**
+**2.6 Insights from Revenue Breakdown Analysis and Interpretation**
   
 - The total sales revenue from the Superstore dataset amounts to **$2,297,200.86**, with significant contributions from different product categories and subcategories. 
 
@@ -137,7 +137,7 @@ California (West region) leads in sales revenue with $457,687.63, significantly 
 
 
 
-  **2.7 Insights from Future prediction  and Interpretation**
+**2.7 Insights from Future prediction  and Interpretation**
 
  - The chart displays a time series analysis of sales and order processing times, with the blue line representing actual data and the orange line depicting the forecast. The shaded area between the orange lines represents the confidence intervals, which indicate the level of uncertainty in the forecast.
  - The actual data reveals a gradual upward or downward trend, which could be linked to changing sales volumes, order complexity, or other external factors. The forecast generally aligns with the historical data, demonstrating the model's effectiveness in predicting future sales and order processing times.
