@@ -51,6 +51,7 @@ Charts and insights categorized as follows:
 4. **Discount and Profit Analysis**: Impact of Discount on Sales and Profit.
 5. **Customer and Product Analysis**: Sales and Profit by Customer Segment, Highest Revenue-Generating Product.
 6. **Revenue Breakdown**: Breakdown by Category/Subcategory, Profit to Sales Ratio.
+7. **Future Prediction**: Future Sales Prediction and Confidence Intervals.
 
 
 **2.1 Insights from Descriptive Analysis and Interpretation**
@@ -114,7 +115,7 @@ California (West region) leads in sales revenue with $457,687.63, significantly 
 
 - Together, these findings indicate that the Superstore's strategy might benefit from focusing on expanding offerings within these high-performing customer segments and product categories to maximize revenue and profit.
 
-    **2.6 Insights from Revenue Breakdown Analysis and Interpretation**
+  **2.6 Insights from Revenue Breakdown Analysis and Interpretation**
   
 - The total sales revenue from the Superstore dataset amounts to **$2,297,200.86**, with significant contributions from different product categories and subcategories. 
 
@@ -133,6 +134,15 @@ California (West region) leads in sales revenue with $457,687.63, significantly 
 - In summary, the **Technology** and **Furniture** categories dominate sales, with subcategories like **Chairs**, **Binders**, and **Storage** contributing significantly to overall revenue. However, when examining profitability in relation to sales, a clear trend emerges: higher discount ranges are linked with reduced profit margins. The **0-10% profit-to-sales ratio** range shows the most favorable balance between sales and profit, suggesting that more moderate discounting strategies may lead to healthier profit margins. As the discount percentage increases, the profitability decreases, with negative ratios observed in higher discount ranges, implying that larger discounts are hurting profitability.
 
 - The Superstore's strategy might benefit from a more focused approach on offering higher-margin products in the **Technology** and **Furniture** categories, while managing discount strategies carefully to avoid margin erosion in higher discount bands. The data indicates that maintaining moderate discounts may strike a better balance between sales and profit generation.
+
+
+
+  **2.7 Insights from Future prediction  and Interpretation**
+
+ - The chart displays a time series analysis of sales and order processing times, with the blue line representing actual data and the orange line depicting the forecast. The shaded area between the orange lines represents the confidence intervals, which indicate the level of uncertainty in the forecast.
+ - The actual data reveals a gradual upward or downward trend, which could be linked to changing sales volumes, order complexity, or other external factors. The forecast generally aligns with the historical data, demonstrating the model's effectiveness in predicting future sales and order processing times.
+ - However, as the forecast period extends, the confidence intervals widen, highlighting an increase in uncertainty. This suggests that while the model can provide reasonably accurate short-term predictions, it becomes less reliable for long-term forecasts due to the potential influence of external variables. It emphasizes the importance of monitoring real-time data and adjusting business strategies accordingly to manage unforeseen changes in sales trends.
+
 
 
 
