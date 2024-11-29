@@ -34,7 +34,7 @@ Before performing any analysis, the dataset needs to be cleaned and formatted pr
 - Formatting date columns to ensure proper time series analysis.
 - Creating new columns [highlighted by Green color] such as calculating the "Delivery Time" from Order Date to Ship Date, profit margin, etc.
 
-  ### Cleaned Dataset
+  **Cleaned Dataset**
    [cleaned_dataset](./cleaned_sales_data.xlsx)
   
 
